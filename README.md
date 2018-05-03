@@ -1,4 +1,4 @@
-# STM32-CubeMX
+# MSP430
 
 Here you can find my MSP430 code examples 
 
